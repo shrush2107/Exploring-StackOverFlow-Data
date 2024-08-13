@@ -23,7 +23,7 @@ To open and run the notebook:
     jupyter notebook
     ```
 
-2. In the browser window that opens, navigate to the `pandas prac.ipynb` file and open it.
+2. In the browser window that opens, navigate to the `StackOverFlow_Analysis.ipynb` file and open it.
 
 3. Run the cells in the notebook to see the pandas functionalities in action.
 
